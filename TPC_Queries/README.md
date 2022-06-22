@@ -1,7 +1,7 @@
 # Timbr TPC SQL Scripts
 This folder contains the standard SQL scripts of the 22 TPC-H queries, where each query script is compared to the script created using the TPC Timbr knowledge graph.
 
-![The_SQL_Editor](./SQL_Editor_TPC.png)
+![The_SQL_Editor](./SQL_Editor_TPC_Queries.png)
 
 ## Scripts
 
