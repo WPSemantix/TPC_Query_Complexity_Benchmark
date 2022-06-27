@@ -106,7 +106,7 @@ After creating the 22 TPC-H queries in Timbr and answering these queries with th
 | SQL Lines     | 4 | 5 |
 | SQL JOINS     | 0   | 1  |
 
-**Q15 - op Supplier Query** - This query determines the top supplier so it can be rewarded, given more business, or identified for special recognition.
+**Q15 - Top Supplier Query** - This query determines the top supplier so it can be rewarded, given more business, or identified for special recognition.
 | | With Timbr  | Without Timbr | 
 | :------------ |:---------------| :-----|
 | SQL Lines     | 15  | 25 |
