@@ -26,13 +26,13 @@ After creating the 22 TPC-H queries in Timbr and answering these queries with th
 
 ### TPC Query Comparison
 
-[Q1 - Pricing Summary Report Query](https://github.com/WPSemantix/TPC_Query_Complexity_Benchmark/blob/main/TPC_Queries/TPC_Q01.sql) - This query reports the amount of business that was billed, shipped, and returned.
+**[Q1 - Pricing Summary Report Query](https://github.com/WPSemantix/TPC_Query_Complexity_Benchmark/blob/main/TPC_Queries/TPC_Q01.sql)** - This query reports the amount of business that was billed, shipped, and returned.
 | | With Timbr  | Without Timbr| 
 | :------------ |:---------------| :-----|
 | SQL Lines     | 14 | 14 |
 | SQL JOINS     | 0   | 0  |
 
-**Q2 - Minimum Cost Supplier Query** - This query finds which supplier should be selected to place an order for a given part in a given region.
+**[Q2 - Minimum Cost Supplier Query](https://github.com/WPSemantix/TPC_Query_Complexity_Benchmark/blob/main/TPC_Queries/TPC_Q02.sql)** - This query finds which supplier should be selected to place an order for a given part in a given region.
 | | With Timbr | Without Timbr | 
 | :------------ |:---------------| :-----|
 | SQL Lines     | 12 | 26 |
