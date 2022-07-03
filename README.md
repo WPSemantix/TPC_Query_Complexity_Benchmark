@@ -7,6 +7,10 @@ The TPC-H is a decision support benchmark. It consists of a suite of business or
 
 **Timbr** has taken the benchmark queries and with the use of Timbr’s knowledge graph has transformed these queries into simplified easy to understand queries. This was due to Timbr’s uniquely created data model, containing rich relationships, hierarchies and classifications, connecting the entire TPC dataset together. 
 
+### The TPC ERD Model
+Source: [TPC Documentation](https://www.tpc.org/tpc_documents_current_versions/pdf/tpc-h_v2.17.1.pdf). 
+![TPC_Ontology](TPC_ERD_Model.jpg)
+
 ### The TPC Ontology
 Timbr’s Ontology Modeler provides a visual interface and a SQL DDL editor to easily model concepts and properties that represent the business or use-case.
 
